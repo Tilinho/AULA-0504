@@ -1,0 +1,43 @@
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.introducao{
+    background-color: cadetblue;
+    color: red;
+}
+
+body{
+    background: linear-gradient( to left, #0ede0b,#a2d8a1 );
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.descricao{
+    background-color: yellow;
+    color: orange;
+}
+.p-descricao:hover{
+    color: purple;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.li-navbar{
+    list-style: none;
+    display: inline-block;
+   
+}
+
+.li-navbar:hover{
+    color: rgb(255, 0, 0)
+    
+
+
+    
+}
